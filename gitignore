@@ -1,0 +1,20 @@
+# data
+data/raw/
+data/chunks/
+data/spectrograms/
+data/bird_mels/
+*.npy
+*.wav
+*.mp3
+*.ogg
+
+# extra checkpoints
+mobilenetv2_exp5_stage1_best.keras
+mobilenetv2_exp5_finetuned_best.keras
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+.DS_Store
