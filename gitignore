@@ -7,7 +7,7 @@ data/bird_mels/
 *.wav
 *.mp3
 *.ogg
-
+ 
 # extra checkpoints
 mobilenetv2_exp5_stage1_best.keras
 mobilenetv2_exp5_finetuned_best.keras
